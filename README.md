@@ -135,7 +135,7 @@ exit
 
 ---
 
-## 🧪 What the firmware actually implements
+## What the firmware actually implements
 
 ### TLV basics (custom & tiny)
 
